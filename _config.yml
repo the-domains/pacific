@@ -1,0 +1,28 @@
+name: 'Pacific '
+favicon: null
+layout_spectrum: 0.13064392912201583
+typography_spectrum: 0.10609635314904153
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6986793093383312
+  lightness: 0.8161320714280009
+  saturation: 0.3673769466113299
+  rhythmicContrast: 0.19063324597664177
+purpose: []
